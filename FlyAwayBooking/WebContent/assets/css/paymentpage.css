@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+
+label {
+font-style: italic;
+}
+div.container {
+position: center;
+padding-left: 5%;
+padding-right: 5%;
+padding-top:5%;
+padding-bottom:5%;
+}
